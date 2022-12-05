@@ -18,7 +18,7 @@ padding: 20px;
 .formulario input[type="text"],
 .formulario input[type="email"],
 .formulario textarea{
-    width: 80%;
+    width: 90%;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 3px;
@@ -30,8 +30,8 @@ padding: 20px;
 .formulario textarea{
     min-height: 120px;
     max-height: 300px;
-    min-width: 80%;
-    max-width: 80%;
+    min-width: 90%;
+    max-width: 90%;
 }
 
 .formulario input[type="text"]:focus,
