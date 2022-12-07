@@ -50,7 +50,7 @@ header nav ul li a:hover{
 }
 
 .main{
-    width: 700px;
+    width: 70%;
     background: #fff;
     float: left;
 }
@@ -78,7 +78,7 @@ header nav ul li a:hover{
     line-height: 27px;
 }
 aside{
-    width: 300px;
+    width: 30%;
     background: #161f26;
     padding: 20px;
     color: white;
